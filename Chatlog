@@ -1,3 +1,7 @@
 你怎的确定这样聊天？
 那只能这样啊，我这里不好掏手机的
 这样貌似有问题，因为不是一个人在修改，每次修改之后会出现一个分支，我不知道你能不能看到分支。
+ 每次保存结尾的时候是有选项的，第一个应该是以master进行更改，第二是新生成一个分支？
+
+  Commit directly to the master branch.
+  Create a new branch for this commit and start a pull request. Learn more about pull requests.
